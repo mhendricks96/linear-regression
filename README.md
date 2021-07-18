@@ -10,4 +10,4 @@
 
 [dataset](https://www.kaggle.com/nycopendata/high-schools)
 
-[Pull Request]()
+[Pull Request](https://github.com/mhendricks96/linear-regression/pull/1)
